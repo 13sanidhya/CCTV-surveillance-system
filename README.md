@@ -20,6 +20,7 @@ This project aims to enhance public safety and streamline crowd management using
    -
 ## Prerequisites
 -Create a images folder and add Person names in it
+
 -add volov3 weights to it.
 
 
