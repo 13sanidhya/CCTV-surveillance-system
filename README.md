@@ -17,7 +17,6 @@ This project aims to enhance public safety and streamline crowd management using
 3. **Crowd Management**:
    - Uses OpenCV to count the number of heads in a given area.
    - Helps in monitoring crowd density and managing crowd control effectively.
-   -
 ## Prerequisites
 -Create a images folder and add Person names in it
 
